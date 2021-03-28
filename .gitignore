@@ -1,4 +1,4 @@
 clean_df.csv
 df_feature_selection.csv
 df_forecast.csv
-/.ipynb_checkpoints
+.ipynb_checkpoints
